@@ -1,0 +1,6 @@
+@import './variable.css';
+@import './theme.css';
+
+body {
+  @apply bg-black text-white;
+}
